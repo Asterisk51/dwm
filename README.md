@@ -21,6 +21,9 @@
 5. Build the Screen Lock
       
         cd ~/dwm/suckless/slockcustom/slock && sudo cp config.def.h config.h && sudo make clean install && cd
-        
+6. Additional applications
+For music
+
+        sudo pacman -Sy cmus 
 **Hope you enjoy the delicious rice ;D**
         
