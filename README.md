@@ -29,4 +29,6 @@ For music
 **Hope you enjoy the delicious rice ;D**
         
 > in case if you want to remove beep sound coming through speaker while using terminal
-    rmmod pcspkr
+
+
+        rmmod pcspkr
